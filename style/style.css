@@ -1,0 +1,30 @@
+body{
+    background: lightgrey;
+}
+.container{
+    max-width: 1000px;
+    margin: 30px auto;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    margin: 10px;
+    text-align: center;
+    color: MidnightBlue;
+}
+.mainInfo{
+    margin: 14px;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #004466;
+}
+img{
+    width: 100%;
+    border-radius: 40px;
+}
+a{
+    font-family: 'Oswald', sans-serif;
+    margin: 10px 5.8%;
+    font-size: 20px;
+    text-decoration: none;
+}
